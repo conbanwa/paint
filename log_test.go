@@ -1,8 +1,9 @@
 package paint_test
 
 import (
-	"paint"
 	"testing"
+
+	"github.com/conbanwa/paint"
 )
 
 func TestLog(t *testing.T) {

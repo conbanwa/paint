@@ -1,7 +1,7 @@
 package paint
 
-// @version 0.0.4
-// @license.name last updated at 2023/3/16 12:26:32
+// @version 0.0.5
+// @license.name last updated at 2023/3/16 12:34:50
 
 import (
 	"fmt"

@@ -1,3 +1,3 @@
-module paint
+module github.com/conbanwa/paint
 
-go 1.19
+go 1.13
